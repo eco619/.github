@@ -1,6 +1,6 @@
 # eco619
 
-> **Engineering intelligent systems through understanding, context, and evolving architecture.**
+**Engineering intelligent systems through understanding, context, and evolving architecture.**
 
 Welcome to **eco619**, an engineering workspace dedicated to designing, building, documenting, and evolving intelligent systems that help people better understand information, preserve context, and support informed decision making.
 
@@ -10,7 +10,7 @@ The projects within eco619 combine software engineering, artificial intelligence
 
 # A Question That Built This Organization
 
-> **"How did I miss this?"**
+**"How did I miss this?"**
 
 That simple question became the foundation of eco619.
 
@@ -64,4 +64,4 @@ Future work will continue exploring document intelligence, knowledge evolution, 
 
 ---
 
-> **Technology should support human judgment. It should never replace it.**
+**Technology should support human judgment. It should never replace it.**
