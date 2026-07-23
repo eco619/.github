@@ -1,67 +1,112 @@
 # eco619
 
-**Engineering intelligent systems through understanding, context, and evolving architecture.**
+**Engineering autonomous platforms that transform complex information into trustworthy knowledge.**
 
-Welcome to **eco619**, an engineering workspace dedicated to designing, building, documenting, and evolving intelligent systems that help people better understand information, preserve context, and support informed decision making.
+Welcome to **eco619**.
 
-The projects within eco619 combine software engineering, artificial intelligence, document intelligence, visual understanding, and evolving system architecture to transform questions into practical solutions.
+eco619 is an engineering workspace dedicated to designing, building, validating, and evolving autonomous software platforms. Every platform developed here is architected to preserve source evidence, maintain verifiable data provenance, and help organizations navigate complex collections of information with confidence.
+
+Rather than beginning with technology, eco619 begins with engineering problems. Structural friction defines the architecture—not the other way around. Artificial intelligence is an important capability within these platforms, but it remains subordinate to a disciplined engineering foundation built on deterministic verification, strict state boundaries, and data integrity.
 
 ---
 
-# A Question That Built This Organization
+## 🧭 The Question That Started Everything
 
 **"How did I miss this?"**
 
-That simple question became the foundation of eco619.
+That single operational question is the foundation of eco619.
 
-Rather than simply retrieving information, the goal is to build systems that improve understanding by preserving context, relationships, traceability, and knowledge across documents, projects, and time.
+Critical institutional decisions are made every day using information that already exists but remains fragmented across legacy document formats, email archives, visual records, reports, and disconnected historical data. eco619 was created to engineer systems that reconnect these hidden relationships while preserving context, chronology, and provenance.
 
----
-
-# Current Flagship Initiative
-
-The AI Document Library is the flagship Initiative currently under development.
-
-## AI Document Library
-
-It is an AI-powered document intelligence platform designed to transform documents into connected, traceable, and explainable knowledge.
-
-The platform supports everything from document understanding and knowledge discovery to evidence-aware analysis and traceable observations.
+The objective is not simply to ingest information—it is to preserve its meaning, lineage, and verification boundaries.
 
 ---
 
-# Engineering Philosophy
+## 🛡️ Strategic Moats & Architecture Values
 
-The work developed within eco619 is guided by a consistent set of engineering principles.
+Every platform developed within the eco619 ecosystem is guided by a disciplined set of engineering principles:
 
-- Start with the problem, not the technology.
-- Better questions lead to better architecture.
-- Preserve context.
-- Trace observations back to their source.
-- Support human judgment.
-- Design systems that evolve as technology evolves.
-- Document the journey as well as the destination.
-- Share knowledge whenever it benefits others.
-
----
-The following repositories represent the engineering initiatives currently being developed within eco619.
----
-# Current Repositories
-
-| Repository | Description |
-|------------|-------------|
-| **ai-document-library** | AI-powered document intelligence platform focused on document understanding, knowledge discovery, and traceable observations. |
-
-Additional repositories will be added as the eco619 engineering platform continues to evolve.
+* **Architecture Before Interface** — Solve engineering problems before designing user experiences.
+* **Evidence Invariance** — Preserve original identity and immutable source records.
+* **Separated Lineage** — Every derivative maintains traceable parent relationships.
+* **Horizontal Autonomy** — Zero hardcoded paths. Zero environment assumptions.
+* **Thread Isolation** — Worker failures never compromise platform stability.
+* **Verification Separation** — Extraction does not equal verification.
 
 ---
 
-# Looking Forward
+## 🧬 Platform Ecosystem
 
-eco619 is intended to grow beyond a single platform.
+The eco619 architecture is intentionally divided across specialized repositories to promote modularity, security, maintainability, and long-term platform evolution.
 
-Future work will continue exploring document intelligence, knowledge evolution, explainable AI, visual understanding, and engineering architectures that adapt alongside advances in artificial intelligence.
+```text
+                     [ .github ]
+          Organization Profile & Shared Standards
+                           │
+                           ▼
+                [ engineering-docs ]
+      Engineering Standards • ADRs • Schemas • Specifications
+                           │
+                           ▼
+              [ ai-document-library ]
+       Autonomous Runtime • Platform Architecture
+                           │
+                           ▼
+                 [ Production Platform ]
+    Private Runtime • Python Engine • Background Workers
+ Reader Orchestration • Registry Services • AI Integrations
+```
 
 ---
 
-**Technology should support human judgment. It should never replace it.**
+## 🗃️ Repository Catalog
+
+| Repository                                                               | Primary Responsibility                                                                                                                                         | Technical Maturity     |
+| :----------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------- |
+| **[ai-document-library](https://github.com/eco619/ai-document-library)** | Autonomous document intelligence platform, six-layer runtime implementation, artifact lifecycle management, orchestration services, and platform architecture. | **Active Integration** |
+| **[engineering-docs](https://github.com/eco619/engineering-docs)**       | Engineering standards, Architectural Decision Records (ADRs), schemas, technical specifications, data contracts, and cross-platform design references.         | **Implemented**        |
+| **.github**                                                              | Organization profile, shared repository standards, contribution guidelines, and common GitHub configuration.                                                   | **Implemented**        |
+
+---
+
+## ⚙️ Development Lifecycle
+
+Every engineering initiative follows the same disciplined development process:
+
+```text
+Question
+    ↓
+Architecture
+    ↓
+Responsibility
+    ↓
+Validation
+    ↓
+Implementation
+    ↓
+Verification
+    ↓
+Integration
+    ↓
+Documentation
+    ↓
+Continuous Evolution
+```
+
+This process emphasizes deliberate architecture, measurable validation, operational resilience, and long-term maintainability over rapid feature development.
+
+---
+
+## 💼 Technical Evaluation & Commercial Licensing
+
+The architecture, engineering standards, specifications, and implementation guidance published throughout the eco619 repositories represent the public engineering framework of the platform ecosystem.
+
+The underlying Python runtime, custom document readers, format-specific adapters, regular expression libraries, worker orchestration services, and production prompt libraries operate exclusively within private development and production environments.
+
+Organizations interested in evaluating the platform architecture, discussing commercial licensing, or exploring strategic partnerships may request a technical demonstration or source code review under a mutually executed Non-Disclosure Agreement (NDA).
+
+For evaluation inquiries, please contact us through the eco619 GitHub organization or the LinkedIn profile associated with the organization.
+
+---
+
+> **Technology should strengthen human judgment—never replace it.**
