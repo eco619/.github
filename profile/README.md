@@ -105,7 +105,7 @@ The underlying Python runtime, custom document readers, format-specific adapters
 
 Organizations interested in evaluating the platform architecture, discussing commercial licensing, or exploring strategic partnerships may request a technical demonstration or source code review under a mutually executed Non-Disclosure Agreement (NDA).
 
-For evaluation inquiries, please contact us through the eco619 GitHub organization or the LinkedIn profile associated with the organization.
+For evaluation inquiries, please contact me through the eco619 GitHub organization or the LinkedIn profile associated with the organization.
 
 ---
 
