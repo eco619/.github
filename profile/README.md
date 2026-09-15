@@ -84,6 +84,7 @@ The eco619 architecture is intentionally divided across specialized repositories
                            │
                            ▼
               [ ai-document-library ]
+         Continuous Intelligence Platform
        Autonomous Runtime • Platform Architecture
                            │
                            ▼
@@ -100,13 +101,13 @@ Public repositories document the engineering framework, architecture, standards,
 
 | Repository | Primary Responsibility | Technical Maturity |
 | :--- | :--- | :--- |
-| **[ai-document-library](https://github.com/eco619/ai-document-library)** | Autonomous document intelligence platform, six-layer architecture, artifact lifecycle management, reader orchestration, verification services, knowledge processing, and platform integration. | **Active Integration** |
+| **[ai-document-library](https://github.com/eco619/ai-document-library)** | Engineering documentation and architecture for the **Continuous Intelligence Platform**, including its six-layer architecture, artifact lifecycle management, reader orchestration, verification services, knowledge processing, and platform implementation. | **Implementation** |
 | **[engineering-docs](https://github.com/eco619/engineering-docs)** | Engineering standards, Architectural Decision Records (ADRs), schemas, technical specifications, data contracts, and cross-platform design references. | **Implemented** |
 | **.github** | Organization profile, shared repository standards, contribution guidelines, and common GitHub configuration. | **Implemented** |
 
 ### Current Development Status
 
-The AI Document Library has progressed from architectural design and independently validated components into a unified autonomous platform. Throughout development, the system has been tested and validated against records from real multidisciplinary projects, allowing architectural decisions, processing methods, verification controls, and system behavior to be evaluated against known project information and outcomes.
+The Continuous Intelligence Platform has progressed from architectural design and independently validated components into a unified autonomous platform. Throughout development, the system has been tested and validated against records from real multidisciplinary projects, allowing architectural decisions, processing methods, verification controls, and system behavior to be evaluated against known project information and outcomes.
 
 The platform now operates as an integrated system, autonomously coordinating document ingestion, multi-format processing, AI-assisted analysis, verification, and the preservation of relationships and traceability across project information.
 
