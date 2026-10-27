@@ -105,6 +105,14 @@ Public repositories document the engineering framework, architecture, standards,
 | **[engineering-docs](https://github.com/eco619/engineering-docs)** | Engineering standards, Architectural Decision Records (ADRs), schemas, technical specifications, data contracts, and cross-platform design references. | **Implemented** |
 | **.github** | Organization profile, shared repository standards, contribution guidelines, and common GitHub configuration. | **Implemented** |
 
+### Continuous Intelligence Platform — Architecture & Engineering
+
+The Continuous Intelligence Platform (CIP) is documented through its architectural design, engineering principles, implementation history, and verification processes.
+
+- **[CIP Architectural Overview](https://eco619.com/cip-architecture)** — Visual overview of the platform's modular architecture, information processing, specialized components, orchestration, verification, and research direction.
+- **[Architecture Illustration](https://github.com/eco619/ai-document-library/blob/main/docs/architecture/cip-architecture-overview.png)** — Architecture diagram maintained in the CIP engineering repository.
+- **[From Component Validation to Baseline Testing](https://github.com/eco619/ai-document-library/blob/main/docs/engineering-notebooks/from-component-validation-to-baseline-testing.md)** — Engineering case study documenting the progression from independent component validation through implementation, integration, implementation verification, and baseline testing.
+
 ### Current Development Status
 
 The Continuous Intelligence Platform has progressed from architectural design and independently validated components into a unified autonomous platform. Throughout development, the system has been tested and validated against records from real multidisciplinary projects, allowing architectural decisions, processing methods, verification controls, and system behavior to be evaluated against known project information and outcomes.
